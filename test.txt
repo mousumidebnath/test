@@ -1,0 +1,5 @@
+Failed to execute goal on project RCSAuth: Could not resolve dependencies for project RCSAuth:RCSAuth:war:1.0.0: 
+Failure to find com.microsoft.sqlserver:sqljdbc4:jar:4.0 in https://repo.maven.apache.org/maven2 was cached in the local repository,
+ resolution will not be reattempted until the update interval of central has elapsed or updates are forced -> [Help 1]
+
+	
